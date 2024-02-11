@@ -71,15 +71,15 @@ This project demonstrates the usage of the Roop framework for face processing in
 5. Don't forget to upload your video file and image (.jpg) file that contains face to change into the video and also change the file path.
 
 <video width="320" height="240" controls>
-  <source src="screenshots/project3_2/Aukat_dikhadi.mp4" type="video/mp4">
-  project 3_2 Input video
+  <source src="https://github.com/Smitpadshala99/Generative_AI/raw/main/screenshots/project3_2/Aukat_dikhadi.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
+![Watch the Video](https://github.com/Smitpadshala99/Generative_AI/raw/main/screenshots/project3_2/Aukat_dikhadi.mp4)
 
 ![Project3_2 Input Image](screenshots/project3_2/Viratkohli.jpg)
 
 <video width="320" height="240" controls>
-  <source src="screenshots\project3_2\Viratkohli_Aukat_dikhadi.mp4" type="video/mp4">
-  project 3_2 Output video
+  <source src="https://github.com/Smitpadshala99/Generative_AI/raw/main/screenshots/project3_2/Viratkohli_Aukat_dikhadi.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
-
-![project 3_2 Output video](screenshots/project3_2/Viratkohli_Aukat_dikhadi.mp4)
+![Watch the Video](https://github.com/Smitpadshala99/Generative_AI/raw/main/screenshots/project3_2/Viratkohli_Aukat_dikhadi.mp4)
