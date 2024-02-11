@@ -19,7 +19,7 @@ venv\Scripts\activate  # for Windows
 ## Description
 The "Know about Person" project utilizes the Gemini AI API to gather information about a person. The Streamlit web app allows users to input the name of a famous person and retrieve details about their life, achievements, birth details, early life, interesting facts, imagined interview, fictional headline, and even a poem inspired by their legacy.
 
-![Project1_1_1 Screenshot](screenshots\project1_1\project1_1_1.PNG)
+![Project1_1_1 Screenshot](screenshots/project1_1/project1_1_1.PNG)
 ![Project1_1_2 Screenshot](screenshots\project1_1\project1_1_2_1.PNG)
 
 
