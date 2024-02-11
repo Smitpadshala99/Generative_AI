@@ -1,0 +1,343 @@
+Understanding Incubation and Entrepreneurship
+Dr. B.K. Chakravarthy
+Department of Engineering Design
+Indian Institute of Technology, Bombay
+Module - 03
+Innovation, Team Building and Problem Statement
+Lecture - 04
+Team Building
+(Refer Slide Time: 00:28)
+(Refer Slide Time: 00:32)
+Welcome to the 2nd session of our module, which is Team Building. Building a team is
+extremely critical for any startup. As we know, 23 percent of all entrepreneurial ventures
+fade away because the team parted ways.
+(Refer Slide Time: 00:40)
+The journey from the start till this point you make it is not easy and as a entrepreneur you
+need to ensure that you have the right people with the right competencies to work in your
+team.
+(Refer Slide Time: 00:58)
+I cannot forget this incident nearly 6 years back. We had invited Mike Lyons, a professor
+from Stanford in the area of venture creation to come to IIT to give a lecture. He was being
+invited by the Desai Sethi School of Enterpreneurship.
+And of course, getting a professor from Stanford was expensive. Thanks to Bharat Desai,
+who was the founder of a Desai School of Enterpreneurship. He said let us learn let us not
+look at the money. And the first lesson which Mike Lyons told us was about team building.
+(Refer Slide Time: 01:27)
+And he also mentioned that is extremely critical to have varied skill sets in the team rather
+than have your co-founders with the same skills. That stayed on with me and we also know
+how critical it is for any startup to really do good if they can have all the key people with
+the key skills in the same team.
+(Refer Slide Time: 01:45)
+We are going to have Professor B. Ravi, the head of the department of Desai Sethi School
+of Enterpreneurship talking to us in module 5. He has come up with a wonderful formula
+for team building. What he does is, he actually builds teams with varied skill sets for a
+particular problem and then invites all of them to do a Hackathon and takes them through
+multiple Hackathons one after the other.
+(Refer Slide Time: 02:08)
+This way the team bonds also and we have seen some of the best companies coming out
+of the BETIC Center at IIT Bombay. For our session, today we have doctor Rupesh, who
+is our CEO of the BETIC Center, he was also a PhD student and he has seen this whole
+ecosystem of enterpreneurship from day one and he has been great at team building and
+conducting these Hackathons.
+(Refer Slide Time: 02:35)
+In this session, you will also see how our M.tech students of IIT, Hyderabad are going to
+build their teams for their startup project. Thank you so much Rupesh for joining us in the
+evening to tell us how the team formation and how we should look at our problem
+statement and then you know choose the type of you know the partners we can choose for
+our enterpreneurship venture. So, thank you so much for joining us and let us see your
+template to take this forward.
+Sure. Now, thank you Professor Chakravarthi for inviting this is a pleasure. So, as I said
+as mentioned parallely there is a event going on eMEDIC which is medic, eMEDIC is
+standing for medical device innovation camp usually we do it physically at IIT, Bombay,
+where multiple discipline people come together they form teams and solve live problems
+here this time for the first time we are doing it online.
+(Refer Slide Time: 03:21)
+So, we had about 75 participants and this is we had two tracks enterpreneurship track and
+industry track and we had five different groups or categories of people. Green if you can
+see is more notified by the medical side doctors again even in medicine if you see there
+are n number of branches, but we have to club them together. So, the 8 entrepreneurs track
+doctors who are with the bend that they want to become entrepreneurs were put in that
+category.
+There were 8 electronics, computer, IT people, there was mechanical production physics
+into that other category, biomedical biotech pharmacy in one and special group design
+management finance.
+(Refer Slide Time: 04:04)
+Now, we had a challenge is that each of them said no, but I am also a mechanical engineer
+who did my masters in bio-engineering. So, can I not go into biomedical category.
+(Refer Slide Time: 04:15)
+Now, that does not matter here somebody says that I was a production engineer, but I am
+a MBA now. So, that also does not matter it is about what hat you are going to wear in the
+team to solve that problem. So, you have two streams that is good you can always leverage
+whatever your basic engineering or basic degree does not matter, what hat you wear to
+solve that problem is more important here is what we mentioned.
+So, in fact, we have one cardiologist who is actually being part as a biomedical person
+because of the skills and experience they have.
+(Refer Slide Time: 04:44)
+So, that is how you have to lower down your egos, be flexible move around and try to see
+what hat do I wear what is the role that I take in this team to solve that one problem they
+are bound by that mission of solving that one line. Yeah so, let me also share something
+parallelly which may again help you what we are doing and that may help you to from
+your own teams also.
+(Refer Slide Time: 05:05)
+So, once you have your team formed and once you have your problem area identified that
+is where about Professor Chakravarthi also said bottom part prior art we will have to see
+from various angle, what are the current devices or existing devices, which are available,
+what are their limitations and that this expands each of this team as we speak currently in
+our program is filling that, what are the relevant companies, which have similar products,
+what are the current paintings.
+(Refer Slide Time: 05:25)
+So, prior art does not mean only products you also have to go and search go ahead what
+are existing patents which may not be commercialized, which may stop you from your
+idea coming into markets, you have to look at patents also and third is there are people
+who have published research they did not find for a patent nor made a product, but just
+made a public information.
+(Refer Slide Time: 05:46)
+Now, you have also know that; that information is available to everybody and your product
+or category design should not fall in there. Because that is public knowledge which means
+everybody can make the product that you are making. So, you have to be very careful
+when you do prior art.
+(Refer Slide Time: 06:00)
+(Refer Slide Time: 06:09)
+Additional to this there are some things like what are the regulatory barriers in that product
+in your country you have to understand, what are the standards you have to follow. So, if
+it is a consumer product what are the standard, electronic product then safety design
+features have to be there.
+(Refer Slide Time: 06:15)
+So, you have to also design not just the shape, form, feel material, but also what is the
+regulatory part of it, then business barriers also will come in picture that also will come in.
+(Refer Slide Time: 06:24)
+(Refer Slide Time: 06:31)
+All this is coming down you have to come down that one problem needs statement which
+I think you guys called design brief, that design brief comes out for that problem and then
+you write your functional requirement, user requirement gets translated which can be
+converted into something which when you test you qualify when you say it should be
+lightweight.
+(Refer Slide Time: 06:50)
+Lightweight is a very weak thing, you as well say weight less than whatever 200 grams to
+be carried by pregnant women, that is the good definition then when you test it you can
+actually qualify it that is how verification works in medical devices it is a separate segment
+altogether.
+(Refer Slide Time: 07:03)
+But these are some of the points which could help you start with team, what are the
+categories you look, what are the problem definitions you should look, what are the
+functional requirements, how do you arrive at is the ground work which you have to do.
+So, these are some of the parts of it yeah I hope this helps.
+Yeah. Yeah.
+All of you do understand that there can be a way of coming together getting aligned with
+the mission or a problem trying to solve that.
+Yeah. In fact, the students today afternoon we have to you know complete all this. We
+have to at least have a problem statement and we have to have the team you know ready.
+Again, I would ask students also is that do you have the categories. Let us say you are 45
+people, do you have like 4 or 5 broad categories that you can put yourself into.
+(Refer Slide Time: 07:42)
+So, this is so beautiful to see that team 1 we have Vijay, we have Vijay who is from
+industrial visual design, then we have somebody from visual arts Mayuri, Nikita from bio
+sciences and research. So, look at the diversity in the group.
+So, I am glad that you are able to come down to these decisions because this also is the
+very real life work where people with different skills are going to come together you have
+Shubhi who is form accessory design it is a beautiful team.
+(Refer Slide Time: 08:07)
+Then team 2 has somebody who is an architect, there is somebody who is the computer
+science engineer, there is somebody who is a backend engineer and there is somebody who
+is from visual UI UX.
+(Refer Slide Time: 08:19)
+Again, very good team. The more different diverse you are the more better the team is
+going to be. Ideally when we form teams when we do it in let us say BETIC or something.
+(Refer Slide Time: 08:32)
+We also say try and see if you are having partners from different state, different city,
+different mother tongue be as interdisciplinary as possible, be as diverse as possible;
+maybe that is something which you can add later on columns that where do you all of you
+come from what cities do you come, what language mother tongue is there and that is even
+much better when you have different kinds of people coming together.
+(Refer Slide Time: 08:52)
+Team 3 also looks great architect, textile design, BA psychology, lifestyle accessory and
+fine art. Wow, how beautiful. I wish at least I have few of these people in our event
+Professor Chakravarthi, I know you are smiling that is what would be required we have
+more or less like engineers biomedical very technical if we had these kind of aesthetics I
+think in all the quotations that would really help the teams to be more alive really this is
+these are vibrant these are good teams.
+(Refer Slide Time: 09:20)
+(Refer Slide Time: 09:30)
+Applied arts, interior design in team 4 engineer electronics and media. Team 5, Wow. UI
+UX, communication, computer, architect and animator. This is brilliant. I think imagine
+the kind of say if you have to have a start up and if you do hire these 6 people imagine the
+kind of work and effort would have gone into doing the interviews, shortlisting their CVs,
+then finding the right kind of people.
+Yeah. Yeah.
+This would have been more difficult if you have to hire people. Now, these are your cofounders these are people that you are having some kind of vibration either towards the
+problem or the people itself.
+(Refer Slide Time: 10:05)
+(Refer Slide Time: 10:18)
+So, team 6 again great going yeah all sorts all tick marks architect, product design, visual
+design, gamification great and that is really nice again that is a good balanced team. Yeah
+architect, lifestyle and product design I think you are still balanced, but three legged team
+is always slightly unstable.
+(Refer Slide Time: 10:34)
+So, the reason being the moment one of you leaves for some reason is not available it is
+no more a team right two people is slightly difficult to be called as a team itself. So, that
+is why you need at least 4 kind of people to (Refer Time: 10:40).
+What do you?
+So, try and see if we can.
+And then and then, what we mean by making backpack organization easy what do you
+mean that? Amir, Gaurav or Karan.
+Sir. Basically, we have all (Refer Time: 10:52) backpack you know. So, and we are making
+backpack for different types of category.
+Wow, lovely.
+(Refer Time: 10:57).
+Very good.
+(Refer Time: 10:59).
+Very good.
+(Refer Time: 10:59) operating we may, but there is one problem that is not solved that is
+you know how you should organize your things in a backpack you know.
+Oh.
+That is always a problematic finding things inside the bag, you know.
+So, backpack organization.
+(Refer Time: 11:10).
+Backpack organization is actually the task in hand not the.
+(Refer Time: 11:16).
+So, it is basically you know backpack manufacturing organization like you know. So, you
+are making a backpack company which is going to solve the backpack organization
+problem.
+Yes. Yes, sir. Yes, sir
+Nice.
+Wow, that is very good.
+Very good. Very well.
+So, I think when you get your problem statement more adhering I am sure a lot of people
+will join Gaurav. So, ok.
+(Refer Slide Time: 11:36)
+Great. So, then team 8, animation toy, film making, communication if in even if you
+analyze all 45, I can say 45 different groups itself it is not like everybody is just repeating.
+Yeah, it is fabulous.
+The combination is also different.
+Yeah. Yeah, it is a fabulous.
+So.
+Infact, our.
+(Refer Time: 11:52).
+IIT, Hyderbad Mdes is like very very open and we got diverse people coming in with the
+experience from industry and I did not tell you Rupesh they also pay lot of them do not
+have scholarship they just pay their own fees and they are coming to study.
+Is that, wow.
+So, it makes us more responsible.
+Right, right.
+To give them the best education and make them entrepreneurs and make them get their
+money back.
+Hey, imagine even what you have this is one batch and you have 45 people even if you
+start these 10 companies you will be not job seekers or consultants only you are going to
+create products which will have industries by themselves plus you will have more people
+who are like you joining you from other sectors who are not as privileged.
+Let us say, you are at least exposed to this environment there are other people who wanted
+to do design, but never were aware of a design course they ended up doing some
+mechanical engineering somewhere or some other course.
+So, you could become a as in proper window or a door opening for them to express their
+ideas and product design aspects also. So, please imagine as in even if you start a company
+just 10 companies you could be job creators and these are high value job creators you are
+creating higher value job it is not like just run of the mill jobs that you are creating these
+are creative people they are all powerhouses that you can empower again.
+(Refer Slide Time: 13:14)
+Again team 9, great combination from computer engineering to architect to visual art to
+product design to UI UX.
+(Refer Slide Time: 13:24)
+And beautiful team number 10, where I can see an aerospace engineer. Would really love
+to see aerospace engineer working with experimental design person with apparel and then
+communication design with an mechanical engineer this is not a traditional, let me tell you
+what is happening is not traditional this is not conventional. If you guys are able to come
+down to one particular problem if you decide nobody in the world can have such kind of
+combinations. So, please, please be aware of the power you already have ok.
+Yeah. So, all you need to do is come to different kind of a problem statement do not worry
+this course if you really see again it is all about cooking, right. You learn how to cook does
+not matter what dish is what you are going to cook eventually after the course you can
+cook your own dish what you are getting (Refer Time: 14:09) journey right now.
+So, you are just going to learn how do you prepare for ingredients, how do you prepare a
+recipe, how do you systematically put it together, what do you do first, how do you
+measure the temperature of oil, that is what is going to be part of this course. How do you
+do it balance. Once you do this you all are free go ahead cook the best dish that you want
+to do later on that is not a problem ok.
+(Refer Slide Time: 14:31)
+Even the problem statements area of interest what I would recommend is now do fill the
+other gaps like strengths do not leave it blank as in do that.
+Yeah.
+Effort extra effort of filling it because that is going to help you understand more job roles
+the hat you will wear. So, you will know that that person comes with that strength he is
+saying I am I have a strength in that thing. Areas of interest all are good even what you
+started product for blind or relaxation through VR, learning aids for dyslexic children,
+game design for kids with motor skills all good problems even the wall painting with
+augmented reality is good. Only one which I thought was slightly more generate and may
+be you already have it. Team 6’s internet of things which is slightly.
+(Refer Time: 15:13).
+Generic which Professor Chakravarthi mentioned may be.
+(Refer Slide Time: 15:17)
+You add more detail what is the persona, who is it for slightly try to define the segment or
+the industry or the area this is more like a platform technology you it is almost like saying
+Bluetooth, Bluetooth for what? So, that is not a problem unless you want to get into
+Bluetooth kind of alternate technology that is a different thing, but here internet thing
+would I would say suggest just add two three areas specific domains and then define the
+problem otherwise this is good to start with.
+Team 8, has to put a problem statement put one problem statement does not matter how
+bad it is good it is put it out and then you can discuss later on put two three options then
+you can short list that is fine diverge and then converge back on one problem that is fine.
+Even card games, fidgeting toys good problems to solve with you will have a good area.
+(Refer Slide Time: 16:07)
+Also try to wear the hats that this is the entrepreneurship course do you want to make a
+product or do you want to make a company. Both are different things. So, those are two
+different aspects investor will say ok fine if you are going to eventually need investment,
+then say you are a good product designer, but this is not a company there is no business
+about it. So, that also has to be brought in thought in.
+So, when you are choosing these areas please be careful that, is there significant need, are
+there barriers to market are there competiting advantages that you have, what is the value
+proposition, is there a series of products that you can bring in that line. Because customer
+engagement is also one more thing which will come in picture.
+Say if you design toys something for handicapped children your next design is going to be
+very difficult if you develop something for consumers because your market channel
+distribution channel would have been for one particular segment.
+(Refer Slide Time: 17:04)
+So, try to be in one segment, one area and then develop products in that segment because
+that is what investors in the business would like that. I do not want to have acquisition cost
+of customer twice advertising to customers children differently, advertising for cricketers
+differently, that is going to be two different things ok.
+So, when you choose that problem try to choose something which is business specific not
+product is good, but business is going to be good about it also ok.
+Right.
+Yeah.
+But, yeah.
+I think (Refer Time: 17:31).
+Yeah, (Refer Time: 17:32) question cannot we do both like we are looking at the product
+also and we are forming a company too.
+You can, but let us say I will give you an example fidgeting toy right.
+Yeah.
+If you see fidgeting toy only if it is one device it is going to be difficult unless you say
+fidgeting is an area stress relieving toys that is a good segment.
+It is.
+(Refer Slide Time: 18:00)
+Stress relieving toys for people who are work from home you have a category you have
+more than one column that can be brought in there is more business you can say if one
+does not work I have plan B.
+Yeah.
+Plan B, plan C or fidgeting toys for school kids and especially working professionals who
+are into sales or stock who are more in stress or doctors fidgeting toy different that is the
+segment that is the business one fidgeting toy is a product.
+Yes sir. So, sir for example, we are thinking of different crafts the local crafts reviving
+them working on them. So, maybe it can come into business because we will be doing.
+(Refer Time: 18:32).
+Craft design intervention in that.
+Yes.
+Helping the artisans.
+Yeah, yeah and we will also allot you mentors we will allot you some you know nice focus
+areas there is this company which some people have started this sector it is fabulous area
+again which is going to come.
+Yeah.
+So, typically.
+Ok.
+When you just to do a product you may have to license it and that is not a, there is a mode
+of entrepreneurship in it that saying we will do 10 different products in 10 different
+segment, but our business is about making 10 different product every 6 months or every
+year we are not into the sales and distribution of that.
+So, you are limiting yourself to the risk of product development which is limited you are
+and you are need to be somebody else is going to do marketing somebody else is going to
+go distribution then you are looking at a licensing model your business is licensing itself
+your business is not product.
+Ok.
+Making and selling. So, you have to identify what segment you are in there.
+Ok, sir.
+Right, then bye have a good.
+(Refer Time: 19:26).
+Evening.

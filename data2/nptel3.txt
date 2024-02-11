@@ -1,0 +1,668 @@
+Understanding Incubation and Entrepreneurship
+Dr. B.K. Chakravarthy
+Department of Engineering Design
+Indian Institute of Technology, Bombay
+Module - 03
+Innovation, Team Building and Problem Statement
+Lecture - 03
+Section - 01
+Methodology for Innovation
+Welcome to module 3 of our course Understanding Incubation and Entrepreneurship, 
+where we are going to learn Innovation, Team building and Problem Statement. Today’s 
+lecture we will have 3 sessions. The 1st session is on methodology of innovation.
+(Refer Slide Time: 00:42)
+The 2nd session is on team building and the 3rd session we will discuss defining the 
+problem statement.
+(Refer Slide Time: 00:57)
+In the 1st session on methodology for innovation I am going to take you through the live 
+case studies from the Shenoy Innovation Studio at IDC School of Design IIT Bombay.
+(Refer Slide Time: 01:03)
+Through these live case studies I am going to take you through the 7 concerns of innovation 
+as well as the collaborative model of innovation which is extremely critical for any new 
+start up or entrepreneurship.
+(Refer Slide Time: 01:10)
+(Refer Slide Time: 01:16)
+The innovation methodology helps us come up with solutions which can delight a large 
+number of users and get potential customers. Hence, this is extremely critical for our 
+businesses and start ups.
+(Refer Slide Time: 01:35)
+The lecture also showcases how the innovation process requires empathy, meticulous 
+effort, constant interaction with users and effective collaboration.
+(Refer Slide Time: 01:47)
+.
+For today’s lecture let us discuss the startup story of Netflix. Netflix is the world’s largest 
+subscription based video service provider and it could not reach there very easily.
+(Refer Slide Time: 01:57)
+The whole story started when Reed Hastings the founder of Netflix had rented an Apollo 
+13 cassette and forgot to return it. The video library charged a heavy fine of around 40 
+dollars and that left him embarrassed. While he was working out in the gym he realised 
+that the payment model of the gym was very fair when compared to cassette rentals. This 
+one idea of subscription triggered Netflix.
+(Refer Slide Time: 02:27)
+At that time in 1977, DVDs were just coming in and that was an added advantage to Netflix. 
+And it started sending DVDs by mail and by 1999 they introduced a monthly subscription 
+model.
+(Refer Slide Time: 02:45)
+It was a big hit because customers could borrow a number of DVDs and become free from 
+the hassles of due dates and shipping charges and late fees.
+(Refer Slide Time: 02:56)
+Within ten years by 2007, Netflix introduced the subscription based online video streaming 
+and there was no looking back after that. They started working on it immediately and put 
+in the best engineers. In fact, Netflix is known for getting the best manpower in their teams. 
+Netflix became very very popular and they got huge subscriptions thanks to excellent 
+internet speeds and technology.
+(Refer Slide Time: 03:20)
+We can see how the ecosystem around you and the environment around you can also push 
+you to innovation and excellent business prospects.
+(Refer Slide Time: 03:29)
+What is interesting is Netflix kept on innovating. They ventured into the film industry. 
+They created films and serials and on top of it unlike the TV industry, the customer had 
+the choice to watch all the episodes of the show at one go. The founders of Netflix were 
+known for their software proficiency and they built in artificial intelligence and algorithms 
+to suggest what the customers would like to view and this actually made it a very very 
+popular feature.
+(Refer Slide Time: 04:03)
+Let me now take you to my lecture of session 1, which is methodology for innovation. If 
+innovation has to be sort of you know like implemented or you need to take it forward you 
+either need you know you either need to go to industry which is already established.
+(Refer Slide Time: 04:20)
+So, they can take your innovation forward which is one example I show you of my petrol 
+pump design.
+(Refer Slide Time: 04:26)
+And of course, the second like the best option of course, is doing a startup. And when you 
+do a startup, it is not the same user you are considering when you are designing a product. 
+That was the biggest learning for me with those you know two weeks of classes with my 
+you know colleagues in IIT Hyderabad.
+And so, before I start my innovation by design let me you know talk about that one 
+paradigm shift which we designers have to understand when we look at enterprises and 
+when we look at innovation very closely because design and innovation are not the same 
+right.
+(Refer Slide Time: 04:59)
+You know they are very different. So, what is the difference between design innovation, 
+what is it how do each of them address each other is the biggest challenge and that is the 
+reason for my logo innovation by design.
+(Refer Slide Time: 05:09)
+.
+Where design addresses innovation and the innovation process is designed.
+(Refer Slide Time: 05:15)
+So, and then of course, now the management you know schools have taken up the design 
+thinking process which is the management process for managing innovation and all of us 
+are so well versed with it. And then we keep saying that we are the experts of design 
+thinking, [FL] managers [FL].
+You know a number of times we ask this question, but of course, you know that is the best 
+part of design which design thinking or design approach is you know can be applied in all 
+contexts in all situations.
+(Refer Slide Time: 05:51)
+You know there was this famous you know American designer Raymond Loewy who 
+started the first trains, who made the first copy machine, who made the first washing 
+machine.
+(Refer Slide Time: 05:53)
+You must be looking up Raymond Loewy. He would actually use design to even solve 
+personal problems and societal problems and also you know people you know who are not 
+able to gel-together you know for managers. So, design can really you know do all that 
+and all that is happening because you are very perseverance because you ask the right 
+questions because you are ready to listen and these are valuable traits.
+Students when your colleagues and my when my colleagues in MIT and the faculty keep 
+on sending you outside survey [FL] that is the way we start you know learning what all is 
+happening. So in fact, my I am very very lucky that I you know did mechanical engineering. 
+So, when I do mechanical engineering and become a designer, I am a different animal. 
+When I do sciences and become a designer, I am a different designer.
+(Refer Slide Time: 06:55)
+And that brings us to a very very important aspect of collaboration in design. And all that 
+I have you know told you in my online lectures and we will of course, you know like you 
+know revisit some of it you know while we go ahead.
+(Refer Slide Time: 07:07)
+.
+And my grounding of course, in you know IIT Delhi after my Larsen and Toubro stint was 
+again very very fabulous. I realised how research and technology could address design in 
+a very big way.
+(Refer Slide Time: 07:19)
+And how need to we need to again work very collaboratively with our professors over 
+there. So, I became a specialist in collaborative design because I saw that without 
+collaboration innovation cannot go forward. So, my you know my area of specialisation is 
+collaboration and that too in the new product areas; new product design we call a new 
+product and within the new product see research is very narrow, the concept generation.
+Remember the idea generation what we do. [FL] quickly sketch [FL] sketch [FL] final 
+concept [FL], not right. And of course, now you can see that my L&T experience counted 
+heavily when I did my IIT Delhi stint and in the IIT Delhi I have to study again which was 
+fabulous I was studying with my management colleagues there management school part 
+time study that really helped me.
+And then for example, in my PhD and then moved to IDC IIT Bombay as a professor 
+where you know we started you know multiple programmes.
+(Refer Slide Time: 08:14)
+And of course, now I head the Designs Innovation Centre at IIT Bombay, you know we 
+tried to learn still we try to learn and this never ending story. Okay.
+(Refer Slide Time: 08:24)
+So, now, today I am going to take you through my 7 concerns and these 7 concerns form 
+the backbone of the innovation process and I am going to show you these small small you 
+know videos of these concerns.
+(Refer Slide Time: 08:36)
+So, from the you know first concern which is the cause, you know in design and innovation. 
+In both cases we are very very focused on you know the type of commitment we have to 
+solve the problem, right. In fact, that you know the concern to solve a problem you know 
+is extremely critical even for the innovation journey and we call it the cause.
+And that one sentence we write for the cause has to be one sentence students. A lot of my 
+students would write a huge of course, objective [FL] cause [FL].
+(Refer Slide Time: 09:14)
+If I am designing a letterbox for India Post, my only cause was to design a maintenance 
+free letter box, [FL] free [FL] and all other things will come in automatically right.
+(Refer Slide Time: 09:29)
+So, the cause becomes very important and of course, here look at this wonderful project 
+we had where we designed a vein tracer.
+(Refer Slide Time: 09:35)
+I am very proud to say that this vein tracer has reached the presidents you know hospital 
+in Rashtrapati Bhavan.
+(Refer Slide Time: 09:41)
+Because this got the you know good award during the you know like festival of innovation 
+conducted by Professor Anil Gupta of IIM Ahmedabad.
+(Refer Slide Time: 09:47)
+And the [FL] liked it so much that you know he asked us to supply one pile production to 
+him. So, it is a very simple device where you could see the you know vein.
+(Refer Slide Time: 10:06)
+And this whole thing started from that first lesson on design thinking, which is empathy, 
+which is by visiting the location. So, what we did? In one course we said we will just go 
+and visit blood banks. We did not we did not plan what product to work on. When we 
+visited blood banks and the students kept on you know like talking to doctors talking to 
+people who came to give blood and each student took one-one problem from the blood 
+bank.
+(Refer Slide Time: 10:28)
+To everlasting credit of Trivikram who took this project he said sir, it is so painful that they 
+have to break to three times, why cannot we have a simple device and of course, that is the 
+way these devices come up. See I told you about technology transfer no, this is not a 
+technology transfer to a company which is now going to manufacture this product and you 
+know put in the market. So, they the resolve to solve the problem is the key.
+(Refer Slide Time: 10:51)
+We designed and developed a vein detector using NIR spectroscopy which highlights 
+oxygenated veins.
+(Refer Slide Time: 10:56)
+This is especially useful for small children, obese patients as well as dark skinned people.
+(Refer Slide Time: 11:03)
+We designed a lightweight, portable and a compact unit which is also affordable and easy 
+to use.
+(Refer Slide Time: 11:11)
+This is especially needed as there is wide application in all medical services ranging from 
+anaesthesia units, blood banks and a paediatric wards.
+(Refer Slide Time: 11:21)
+The design process was evolutionary in nature. We tried out different configurations for 
+our infrared light source so that we could get the most optimum results.
+(Refer Slide Time: 11:31)
+We also checked up various forms by doing 3D printed models so that the caregiver can 
+have very good grip on the product for single use operations.
+(Refer Slide Time: 11:33)
+(Refer Slide Time: 11:36)
+(Refer Slide Time: 11:42)
+Our initial trials have resulted in very positive feedback from our anaesthesia doctors as 
+well as paediatric wards.
+(Refer Slide Time: 11:45)
+(Refer Slide Time: 11:48)
+Our aim at the Shenoy Innovation Studio IIT Bombay is to humanise technology. Through 
+this product we want to reach every hospital possible across India and the world.
+(Refer Slide Time: 11:58)
+The context, understanding the problem, space and the environment, very very critical 
+students. In fact, we may do a number of lectures on the context, but then when we finally 
+go to the context we are making it very very wide. We do not understand the problem space 
+much.
+For example, yesterday one of my students Anagha called up. She said sir I am stuck. I am 
+working on this you know device to help dementia elders you know with some device and 
+she start making an app. I said did you check up the context, who are these elderly people, 
+what is their age group?
+If it is the age group from 70 to 80 I know they are not comfortable with android phones. 
+So, what are you making? Then the new you know aid for you know remembering whether 
+to take it whether you take a medicine or not is a small you know shaft with some rotating 
+wheels. So, you rotate the wheel as you know take a tablet and you remember I have taken 
+the tablet.
+So, that is the core of our understanding where we need to narrow down the problem,
+narrow down the context and the context is that the elderlies in that age group are not they 
+living in the cities and they do not have you know and of course, if they have you know 
+they are living together or they living in an old age home all those factors will be very 
+valuable in your understanding of the context.
+(Refer Slide Time: 13:18)
+So, here for example, this is an eye opener for me students.
+(Refer Slide Time: 13:23)
+When we invited the CRPF Jawans, 8 of them came to my lab and we were designing these 
+bottle.
+(Refer Slide Time: 13:35)
+And I must tell you I must confess that I and my student Devanshi who is a; who was a 
+NID you know graduate came to M. Des with us. You know people, we were in the project 
+and in fact, I myself you know didn’t push her enough to go and meet the Jawans for whom 
+we were designing the bottle and then there was this jury. We have pre juries and multiple 
+presentations, four presentations for every project.
+And to the everlasting credit of my colleagues you know like in the department they said 
+nothing doing, if you are not spoken to the user we are not buying anything from you, we 
+are not none of your presentation is valid. See a senior professor guiding a student and not 
+insisting on meeting the user just because [FL] project [FL], why are you working on a 
+project. So, those are the important things you know which are very very critical for our 
+direction.
+So, the Jawans came and students I must tell you what we thought our concept would be 
+and what the final product was this all credit to those users right. So, a lot of my colleagues 
+who are working on participatory design where users become part of your design process, 
+but of course, we all know that is a very very important journey right.
+(Refer Slide Time: 14:48)
+So, here we have you know how they you know take bottle and quickly show you this one 
+video.
+(Refer Slide Time: 14:54)
+.
+(Refer Slide Time: 14:58)
+(Refer Slide Time: 15:01)
+.
+(Refer Slide Time: 15:05)
+(Refer Slide Time: 15:10)
+(Refer Slide Time: 15:13)
+(Refer Slide Time: 15:17)
+(Refer Slide Time: 15:21)
+(Refer Slide Time: 15:23)
+(Refer Slide Time: 15:27)
+(Refer Slide Time: 15:30)
+(Refer Slide Time: 15:33)
+(Refer Slide Time: 15:36)
+(Refer Slide Time: 15:38)
+(Refer Slide Time: 15:48)
+The type of insights we gain from our user study becomes the core for our sort of 
+comprehension which is drawing insights. A number of times we do user study, we 
+understand the context, but we never take insights, we never take back these insights as 
+very important cues for our design process. So, here we are talking about the cues for the 
+design process.
+(Refer Slide Time: 16:06)
+And here we have this very interesting case study of our window mounted solar oven. 
+Looks very simple students.
+(Refer Slide Time: 16:12)
+But this window mounted solar oven for example uses collaborative design again from 
+three different sort of disciplines. We have professors from Energy Science, who tell us 
+the thermal aspects of the product. We have professors from Material Science who helped 
+us with the coatings and of course, we have professors from Polymer who helped us with 
+the polymers and the plastics for it to really work as a greenhouse effect.
+(Refer Slide Time: 16:38)
+.
+So, here for example, this oven just has a double walled polycarbonate shell, very simple, 
+and has coated aluminium plates inside which collect all the remember our cars get very 
+warm collects all the heat from the sun.
+(Refer Slide Time: 16:50)
+And does not let any of the heat escape and then cooks your rice you know within one and 
+a half hours, 2 hours if the temperature outside is 40 degrees.
+(Refer Slide Time: 17:00)
+(Refer Slide Time: 17:03)
+The Design Innovation Centre at IIT Bombay supports the best design minds in the country 
+to conceptualise, prototype, test and ultimately produce innovative products which will 
+enrich our lives.
+(Refer Slide Time: 17:09)
+(Refer Slide Time: 17:10)
+(Refer Slide Time: 17:12)
+(Refer Slide Time: 17:13)
+(Refer Slide Time: 17:14)
+(Refer Slide Time: 17:17)
+(Refer Slide Time: 17:20)
+(Refer Slide Time: 17:22)
+Our student Avinash found out that the conventional box type solar cooker is very 
+inconvenient to use.
+(Refer Slide Time: 17:24)
+He came up with this new design of window mounted oven where one can operate the 
+oven from indoors.
+(Refer Slide Time: 17:28)
+(Refer Slide Time: 17:30)
+(Refer Slide Time: 17:32)
+We receive ample sunlight in our country.
+(Refer Slide Time: 17:35)
+And the solar oven takes as a step closer towards a sustainable lifestyle.
+(Refer Slide Time: 17:39)
+(Refer Slide Time: 17:42)
+This versatile solar cooker with zero maintenance can easily recover its cost in a span of 3 
+to 4 years.
+(Refer Slide Time: 17:46)
+The multiple advantages of our solar oven are that it cooks for free, it cooks nutritious food 
+and the food is tastier.
+(Refer Slide Time: 17:55)
+As an athlete, I almost have to perform at my peak.
+(Refer Slide Time: 17:59)
+(Refer Slide Time: 18:00)
+(Refer Slide Time: 18:01)
+The key is to be dedicated to the idea of fitness that also means I need to watch what I feed 
+my body.
+(Refer Slide Time: 18:03)
+LPG [FL] subsidy [FL], solar oven [FL] gas [FL].
+(Refer Slide Time: 18:04)
+(Refer Slide Time: 18:10)
+(Refer Slide Time: 18:11)
+(Refer Slide Time: 18:16)
+(Refer Slide Time: 18:17)
+(Refer Slide Time: 18:21)
+The solar cooker uses renewable energy of the sun and therefore, conserves fossil fuels.
+(Refer Slide Time: 18:22)
+We have cooked rice we have cooked millets; various kinds of curries, vegetables, khichdi 
+and things like that.
+(Refer Slide Time: 18:24)
+(Refer Slide Time: 18:25)
+(Refer Slide Time: 18:26)
+(Refer Slide Time: 18:26)
+(Refer Slide Time: 18:27)
+Because of the low temperature, the nutrients in a food are more stable compared to other 
+methods of cooking.
+The cooking is done in the juices of the food itself and all this contributes to better retention 
+of fragrance and a tastier product at the end.
+Fabulous.
+(Refer Slide Time: 18:44)
+The solar oven has gone through many stages of evolution from a design idea to pilot 
+production.
+(Refer Slide Time: 18:46)
+(Refer Slide Time: 18:48)
+(Refer Slide Time: 18:50)
+We did multiple tests to improve the efficiency of the solar oven. Thanks to the 
+collaborative efforts of our design innovation centre team and the professors at IIT Bombay. 
+We are at the verge of delivering this amazing product from our drawing boards to your 
+homes.
+(Refer Slide Time: 19:09)
+.
+(Refer Slide Time: 19:20) 
+So, students here it is the insight which the student got when he went to homes was that 
+people want the convenience of cooking from indoors. So, that insight brought us to the 
+product see. So, that comprehension becomes very important, one insight which is very 
+critical.
+(Refer Slide Time: 19:34)
+And now when I went to business guys in Surat they said sir [FL] oven [FL] rice cooker 
+[FL]. I can sell thousand at you know in one go in Surat, itself I put them all on the windows. 
+Look at the business acumen coming in there of narrowing down this you know further 
+you know product because you have to focus you know on the you know same.
+(Refer Slide Time: 20:01)
+And again you know like to the everlasting you know credit of Avinash Prabhune student. 
+Avinash has now joined back with us.
+(Refer Slide Time: 20:11)
+So, this product we already taken it up as startup and we are on the pre incubator you know 
+at IIT Bombay called the IDEAS Program and hopefully you know you will see these 
+products you know out there you know in the homes of people.
+(Refer Slide Time: 20:21)
+So, from there for example, we need to go to our 4 see the check, of course, creating the 
+key checks you know. Without a check we can never go forward. I have seen a number of 
+times you know most of you will including me we do a good survey we get insights or 
+[FL] checklist [FL] product [FL] because we are so we are designers right. We are 
+passionate about things, [FL]. Idea should work for the inside. Idea should be with your 
+check.
+(Refer Slide Time: 20:58)
+[FL]. And you know that is again a big story I will show you one after the other. So, of 
+course, creating the checklist is very very important and students I must tell you this is my 
+most toughest and most favourite project which is the palki for Vaishno Devi.
+(Refer Slide Time: 21:41)
+(Refer Slide Time: 21:46)
+(Refer Slide Time: 21:53)
+[FL]. If you have the money you go.
+(Refer Slide Time: 22:13)
+But then I said if they are putting rules they should also provide the tools right, rule [FL] 
+tool [FL] product [FL] very tough journey [FL] multiple trips to Vaishno Devi [FL] anyway. 
+So, that is the beauty about you know about the this product that this key motto again 
+collaborative effort. Let me quickly run the video for you over here students.
+(Refer Slide Time: 22:26)
+.
+(Refer Slide Time: 22:32)
+(Refer Slide Time: 22:40)
+(Refer Slide Time: 22:44)
+(Refer Slide Time: 22:54)
+(Refer Slide Time: 23:03).
+Shri Mata Vaishno Devi shrine [FL].
+(Refer Slide Time: 23:45)
+(Refer Slide Time: 23:54)
+(Refer Slide Time: 23:57)
+(Refer Slide Time: 24:07)
+[FL] [FL].(Refer Slide Time: 24:59)
+This is about the deep concern of Dr. Chidambaram who is Principal Scientific Adviser to 
+Government of India. In reducing the drudgery of the porters carrying pilgrims to the Katra 
+shrine and that is how the redesigning of the Palki project initiated. This very good project 
+was taken up as a integrative effort by IIT Mumbai’s IDC Division and also NITIE for 
+ergonomics studies and beautifully these people worked for that.
+(Refer Slide Time: 25:28)
+(Refer Slide Time: 25:31)
+(Refer Slide Time: 25:35)
+(Refer Slide Time: 25:37)
+Our role in this project was to do a very good user study.
+(Refer Slide Time: 25:45)
+(Refer Slide Time: 25:47)
+Understand the needs of the porters very very closely.
+(Refer Slide Time: 25:50)
+And come up with designs which will help them to reduce the drudgery.
+(Refer Slide Time: 25:53)
+(Refer Slide Time: 25:57)
+(Refer Slide Time: 26:00)
+(Refer Slide Time: 26:03)
+(Refer Slide Time: 26:07)
+(Refer Slide Time: 26:10)
+.
+(Refer Slide Time: 26:13)
+(Refer Slide Time: 26:17)
+(Refer Slide Time: 26:23)
+So, NITIE is one place where we have a Centre of Excellence in Ergonomics and Human 
+Factor Engineering. While IDC put up a design, we came up with ergonomics studies their 
+bio mechanics system where the load is coming.
+(Refer Slide Time: 26:34)
+(Refer Slide Time: 27:37)
+(Refer Slide Time: 26:41)
+We found the shoulder and back were two areas where the lower back these two areas 
+where a load was very heavy and we looked at how we can reduce that load by doing 
+proper design.
+(Refer Slide Time: 26:56)
+.
+I think some of the experts also said that so many minute details we as a team has looked 
+at and try to find a solution which is good for the design.
+(Refer Slide Time: 27:08)
+.
+(Refer Slide Time: 27:12)
+(Refer Slide Time: 27:17)
+(Refer Slide Time: 27:20)
+(Refer Slide Time: 27:23)
+(Refer Slide Time: 27:26)
+(Refer Slide Time: 27:29)
+(Refer Slide Time: 27:32)
+(Refer Slide Time: 27:36)
+So, when we made our first prototype we had missed out a lot of important issues then we 
+had to go with a second prototype and some more new issues started cropping up and 
+finally, when we actually made our 7th prototype, the porters finally, said wow, this is done 
+and now the palki is very good.
+(Refer Slide Time: 27:48)
+(Refer Slide Time: 27:50)
+(Refer Slide Time: 27:54)
+(Refer Slide Time: 28:00)
+(Refer Slide Time: 28:38)
+The final design was lightweight and robust.
+(Refer Slide Time: 28:42)
+We could reduce the weight to 34 kilos from around 50 to 54 kilos and this made a large 
+impact on the comfort of the porters.
+(Refer Slide Time: 28:53)
+At the same time we were very focused on the structural analysis of the palki.
+(Refer Slide Time: 28:56)
+(Refer Slide Time: 28:59)
+And we conducted the analysis that we managed to maintain very good structural stability 
+and structural integrity in the design so that the palki can last long and it can be very safe.
+(Refer Slide Time: 29:08)
+(Refer Slide Time: 29:21)
+(Refer Slide Time: 29:36)
+(Refer Slide Time: 29:39)
+(Refer Slide Time: 29:43)
+Today I am very happy as these integrative efforts are being concluded and final solution 
+is emerged is lightweight, ergonomically designed, safety aspects are there..
+(Refer Slide Time: 29:57)
+There all the designs are structurally validated also and it is also catering to the large age 
+groups of the pilgrims which are actually will be benefited and along with the porters 
+health and also. I am extremely happy these are all integrative efforts and the guidance 
+from PRMC members and the experts we have got.
+(Refer Slide Time: 30:19)
+(Refer Slide Time: 30:24)
+(Refer Slide Time: 30:31)
+[FL]. So, there are multiple risks and they would not let me move. You will see we worked 
+on you know, but of course, in design, students you all know you have to go out of the box 
+first right..
+(Refer Slide Time: 30:52)
+[FL] ideas [FL]. Helicopter idea, then you know open ideas and multiple things. We failed 
+miserably with all these new designs.
+(Refer Slide Time: 30:04)
+We made prototypes of this took them to the field tried them all, because I did not want 
+the porters to get locked inside right. They were used to it then we made options with 
+plastic chairs. Plastic chairs would come off within 6 months, so, we had to become very 
+then we made prototypes of all the CAD models. We tried all these, failed miserably.
+(Refer Slide Time: 31:18)
+And finally, the 8th prototype you know is what you know finally, worked.
+(Refer Slide Time: 32:22)
+And that is the whole challenge in this journey. Every project, see the collaborative nature 
+is becoming very very big here students. So, we need to collaborate with multiple thing. 
+Look at the number of people in this room. All of them are there are three professors from 
+NITIE there are three two professors from IIT Bombay.
+Professor Desai was a structural expert and there were four experts from the Principal 
+Scientific Adviser to the Prime Minister’s office and you know and the porters are sitting 
+in the back you know all the four quarters. So, when the exports come you know we may 
+have our own perceptions we may also go wrong right.
+Whenever we do a project will be a professor whoever there is a review committee which 
+gives valuable advice. So, this review committee we will be calling the Programme 
+Review and Monitoring committee is a collaborative committee which meets every one 
+month and gives you feedback which is so valuable to take your project forward. So, that 
+is a very important part in our journey.
+And of course, they all tried the palki out there. So, there we go and then we are very happy 
+now to mention that you know finally, Jindal sponsored hundred palkis. You know Jindal 
+is as you know one of the largest you know companies which manufacture stainless steel 
+[FL] Jindal architecture which has all this pipe bending and all.
+So, we you know we now hundred palkis are plying in Vaishno Devi for last two years. 
+We are very very happy. We are coming up with a book. We will share a book also with 
+you on the palki design.
+(Refer Slide Time: 32:47)
+Here for example, the check was very important. It was supposed to be a lightweight palki 
+and we made in conscious decision that the weight should be reduced by 30 to 40, you 
+know percent. So, that is the whole you know importance of a check. You need to mention 
+the weight. [FL]. A brief a product brief or a check should have a value.
+So, [FL] palki 34 kilo [FL] 22 kilo [FL] fail [FL] 24 [FL] try [FL] 22 [FL] for example. 
+So, that value proposition is very very important for us to you know to match. [FL] check 
+[FL] ergonomics study [FL] values [FL] lightweight [FL], the weight should be less than 
+20 grams if it is in the hand or the weight should be if it is a wearable if it is a wearable 
+mobile or a wearable thing you are making for somebody the weight should not be more 
+than 40 grams whatever exact weight.
+[FL]? Insight, user study; [FL] brief [FL], if it is a wearable product for example. So, these 
+are very very small you know very important you know like learnings for all of us whatever 
+I shared you know with you.
+(Refer Slide Time: 34:13)
+So, of course, my next project is my very favourite project called the helmet design and 
+[FL] like you know in our country what type of options we have and what type of two 
+wheeler use we have in the country.
+(Refer Slide Time: 34:31)
+You know this is done by my very favourite student called Chari. He is currently working 
+in Fun School in Goa, he is the head of design there. And he made this wonderful sketch 
+for me. He spent nearly a week to make this sketch, but it is fabulous to you know make 
+us understand [FL] product [FL] product [FL] focus [FL] if the focus [FL] user [FL] wide 
+[FL].
+There is an office going person, there is a delivery person, there is a mom who is dropping 
+the children to school and there is also you know like boys who are on the vehicle for fun 
+and of course, there girls who want to cover their face because of the pollution and you 
+have [FL] with the [FL] challenging environment [FL] students [FL] helmet [FL] helmet 
+[FL] context [FL] student [FL] project [FL] students [FL] students [FL] helmet [FL] use 
+[FL] assignment [FL].
+(Refer Slide Time: 35:37)
+So, all the kids had to make an helmet, thermocol [FL] of course, [FL] idea [FL] helmet 
+[FL] for example, [FL]. And of course, it was also you know we would also look at the 
+safety and everything. So, those are the interesting things. So, we can really make one 
+helmet for each you know each application [FL] mobile phone scooter [FL] idea [FL].
+(Refer Slide Time: 36:10)
+And of course then you know this is my again favourite topic Mandar Kale [FL] student 
+[FL] I think he is a he is a professor. He was in Pune, now he is a professor in Bangalore 
+teaching design.
+(Refer Slide Time: 36:19)
+.
+(Refer Slide Time: 36:21)
+He worked on this wonderful ideas. Ideas [FL] important [FL] product [FL].
+(Refer Slide Time: 36:25)
+Then you have to cluster the ideas as part of what I showed you.
+(Refer Slide Time: 36:29)
+And then mock up models then prototypes and of course, now this is under tooling. So, 
+that we can make the first you know pilot production and you know take it to the market. 
+It should be collapsing, but it should not look broken you know. So, that is a big thing 
+learning we got from our user study. So, that is the helmet design.
+(Refer Slide Time: 36:44)
+And of course, the crafting; all of us have to have fabulous lab students without crafting. 
+In fact, to the everlasting credit there is Gayatri Menon who is my PG student, now is a 
+professor at NID. She had a student I forget her name. [FL] last year [FL] motorised wheel 
+chair [FL] students. So, impressive. This motorised wheelchair she collaborated with the 
+company, startup [FL] balcony [FL] setup [FL] carpentry [FL] plastic [FL] acrylic [FL] 
+working rig [FL] for that you know motorised wheelchair for elderly which will stand up.
+[FL] stand up [FL] student [FL] recently [FL] solar cooker [FL], IIT Bombay [FL] he went 
+to the vendors, got it done, laser cut [FL] solar cooker dish type solar cooker he made in 
+his internship project the first year in the first year.
+(Refer Slide Time: 37:28)
+(Refer Slide Time: 37:32)
+(Refer Slide Time: 37:34)
+(Refer Slide Time: 37:38)
+So, it is just in our minds and designers if they do not make mock ups if they do not do 
+crafting [FL] creativity one-tenth [FL]. Ideas of course, are very good creative, but after 
+creativity when you do not do crafting where you make mock up models where you make 
+a working prototype where you make working rigs all those are very very valuable you 
+know for our thing.
+So, again you know again a very very favourite project of mine when you said crafting 
+[FL] students this product was crafted by you know all you know like our vendors who 
+are everywhere in the country..
+(Refer Slide Time: 38:19)
+[FL] sheet metal [FL] fabrication [FL] first prototype [FL]. And of course, after that we 
+took it again as innovation project and then you know like [FL] story [FL]..
+(Refer Slide Time: 38:34)
+Stainless steel [FL] box [FL] and secretary [FL] students [FL] faculty [FL] we can be big 
+professors but we can make a mistake [FL] Chakravarthy [FL] stainless steel [FL] box [FL] 
+dustbin [FL] survey [FL] city [FL] rural areas [FL] post boxes [FL] use [FL] dustbin [FL] 
+form [FL] form [FL] perceptional form, [FL] PhD students [FL] Sushmitha Sharma who 
+worked on perception on form [FL] user domain [FL] product [FL] city [FL] survey [FL] 
+city [FL] papers [FL] ego [FL]..
+No, take feedback from the user. Take feedback from the large sector of users if it is a 
+public domain product. Public domain [FL] postbox [FL] animation colleague [FL]
+Chakku [FL] animation [FL] professor, Professor Shilpa Ranadey she is the head of 
+animation. [FL]. They all knew that [FL] post box [FL] petrol pump [FL] experience [FL] 
+semantically new product, make the product look jazzy, make the product look new so that 
+people will recognise it as a new product [FL] product [FL] that also is important.
+(Refer Slide Time: 40:29)
+So, we did finally, know like [FL] we designed this new box with all the same values, but 
+with a round top with the red colour. [FL] stainless steel [FL], but it is a low nickel stainless 
+steel [FL] product [FL] powder coating [FL].
+(Refer Slide Time: 40:39)
+And of course, the prime minister also came to see it during our convocation and he had 
+some very interesting questions to ask. [FL] letters use [FL] sir [FL] letter [FL] India post 
+[FL]. So, that is a big learning for our students. You have to know that there are people 
+who use letters because [FL] mobile phone use [FL] use [FL] right [FL]. We need to know.
+Every year it is dwindling of course, the personalities are dwindling. The business post is 
+increasing, it is another story. And of course, he also had very good insights [FL] modern 
+[FL] IoT enable [FL] letter [FL] letter [FL] and of course, there is multiple functions of 
+this letter box [FL] India post [FL] India post [FL] symbology [FL]. So, that is a very very 
+important lesson for us and of course, you know this was the interesting thing.
+(Refer Slide Time: 41:30)
+And of course, the last one students is the connection. We say in innovation you need to 
+connect back with the user. [FL] connect [FL] fail [FL] connect [FL] similarly in the 
+letterbox, but in this I was very lucky when I joined Larsen and Toubro after my MDes at 
+IIT Bombay.
+(Refer Slide Time: 41:47)
+Where we created the petrol pumps which became you know maybe you are too young 
+when this came up and you know this was launched in of course, 1990 and then became a 
+runaway success it was supporting all over the country.
+(Refer Slide Time: 42:01)
+And then of course, I went on to work on serial innovation. Every 10 years, we designed 
+a new product and that is coming up in your you know in your journey.
+(Refer Slide Time: 42:11)
+So, quickly browse through the pitfalls of the innovation process students, it was very very 
+valuable. I think I discussed this with you..
+(Refer Slide Time: 42:16)
+[FL] research [FL]. Research see [FL] design [FL] that is the 1st pitfall [FL] cross [FL] 
+design [FL]. We give it another design mock up the product is gone. Thousands of mock 
+ups are available all over the country in all the design schools [FL] model [FL] sketch [FL]. 
+When you cross from there which is a 2nd pitfall [FL] jump [FL] research [FL] jump [FL] 
+skill [FL] practise [FL] research [FL] design [FL] taken. So, that is a that is a skill which 
+is more important.
+(Refer Slide Time: 42:54)
+[FL] pole vault [FL] 2nd pitfall. So, from a mock up take it to a prototype [FL]. So, that is 
+a pole vault right. In pole vault you are using tools, but you are practising and you are 
+taking forward and of course, then you make a working prototype test with users [FL] 
+prototype [FL] most of the start-ups fail over here [FL]. Prototype [FL]. So, then you need 
+to make a prototype and from here.
+(Refer Slide Time: 43:17)
+For example, the bow gets you need a hot air balloon to you know cross this you know 
+next pitfall of pilot production where [FL] letterbox [FL] pilot production [FL]. And of 
+course, when you make the pilot production you know you of course use a lot of 
+manufacturing technologies and things like that.
+(Refer Slide Time: 43:34)
+And then of course, the final one is an aeroplane which is much more difficult where you 
+need much more resources, much more money, much more collaboration to take the 
+product from pilot production to innovation where you know your whole journey is 
+complete.
+(Refer Slide Time: 43:53)
+(Refer Slide Time: 43:56)
+(Refer Slide Time: 44:04)
+(Refer Slide Time: 44:08)
+(Refer Slide Time: 44:14)
+(Refer Slide Time: 44:15)
+(Refer Slide Time: 44:17)
+So, this is the whole you know story students.
+Thank you so much for your time.
