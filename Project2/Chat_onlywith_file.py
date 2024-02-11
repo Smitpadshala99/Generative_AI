@@ -15,8 +15,8 @@ st.set_page_config(page_title="Chat with Document", page_icon="📚")
 def load_data():
    with st.spinner(text="Loading and indexing the Documents – hang tight! This should take 1-2 minutes."):
 
-       llm = Gemini(api_key="AIzaSyCvm-_Jm-T79owDJyvN1ZTqN0_3M4KjKws")
-       embed_model = GeminiEmbedding(api_key="AIzaSyCvm-_Jm-T79owDJyvN1ZTqN0_3M4KjKws")  # Fix typo
+       llm = Gemini(api_key="Google_Gemini_AI_API")
+       embed_model = GeminiEmbedding(api_key="Google_Gemini_AI_API")  # Fix typo
        service_context = ServiceContext.from_defaults(llm=llm, embed_model=embed_model)  # Fix variable name
 
        reader = SimpleDirectoryReader(input_dir="./data2", recursive=True)
@@ -28,7 +28,7 @@ index = load_data()
 
 if "chat_engine" not in st.session_state.keys():
    st.session_state.chat_engine = index.as_chat_engine(chat_mode="context", verbose=True)
-   llm = ChatGoogleGenerativeAI(model="gemini-pro", google_api_key="AIzaSyCvm-_Jm-T79owDJyvN1ZTqN0_3M4KjKws", temperature=0.1)
+   llm = ChatGoogleGenerativeAI(model="gemini-pro", google_api_key="Google_Gemini_AI_API", temperature=0.1)
    st.session_state.langchain_chat_engine = ConversationChain(llm=llm, verbose=True, memory=ConversationBufferMemory())
 
 st.title("Chat With Document")
