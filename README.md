@@ -72,12 +72,10 @@ This project demonstrates the usage of the Roop framework for face processing in
 
 <video width="320" height="240" controls>
   <source src="https://github.com/Smitpadshala99/Generative_AI/raw/main/screenshots/project3_2/Aukat_dikhadi.mp4" type="video/mp4">
-
-https://github.com/Smitpadshala99/Generative_AI/assets/112695070/1726a3e7-9278-4ce7-add6-3bb4ef41ed87
-
-
   Your browser does not support the video tag.
 </video>
+https://github.com/Smitpadshala99/Generative_AI/assets/112695070/1726a3e7-9278-4ce7-add6-3bb4ef41ed87
+
 ![Watch the Video](https://github.com/Smitpadshala99/Generative_AI/raw/main/screenshots/project3_2/Aukat_dikhadi.mp4)
 
 ![Project3_2 Input Image](screenshots/project3_2/Viratkohli.jpg)
