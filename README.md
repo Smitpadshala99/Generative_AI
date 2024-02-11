@@ -20,15 +20,15 @@ venv\Scripts\activate  # for Windows
 The "Know about Person" project utilizes the Gemini AI API to gather information about a person. The Streamlit web app allows users to input the name of a famous person and retrieve details about their life, achievements, birth details, early life, interesting facts, imagined interview, fictional headline, and even a poem inspired by their legacy.
 
 ![Project1_1_1 Screenshot](screenshots/project1_1/project1_1_1.PNG)
-![Project1_1_2 Screenshot](screenshots\project1_1\project1_1_2_1.PNG)
+![Project1_1_2 Screenshot](screenshots/project1_1/project1_1_2_1.PNG)
 
 
 # Project 1.2: Know about Place
 ## Description
 The "Know about Place" project uses the Gemini AI API to provide information about a famous place. The Streamlit web app allows users to input the name of a place and retrieve details such as why it's famous, nearest famous places, history, summary, a tour guide description, and even a short story or prose inspired by the beauty of the place.
 
-![Project1_2_1 Screenshot](screenshots\project1_2\project1_2_1.PNG)
-![Project1_2_2 Screenshot](screenshots\project1_2\project1_2_2.PNG)
+![Project1_2_1 Screenshot](screenshots/project1_2/project1_2_1.PNG)
+![Project1_2_2 Screenshot](screenshots/project1_2/project1_2_2.PNG)
 
 
 # Project 2: Chat with Document
@@ -38,8 +38,8 @@ The "Chat with Document" project uses the Gemini AI API for conversational inter
 
 In this project, I have created a tool to assist with NPTEL assignments. I extracted data from NPTEL video transcripts and saved it in a text file. Using this data, I built a conversational AI system that allows users to ask questions related to the NPTEL content, aiding them in completing their assignments efficiently.
 
-![Project2_2 Screenshot](screenshots\project2\project2_1.PNG)
-![Project2_1 Screenshot](screenshots\project2\project2_2.PNG)
+![Project2_2 Screenshot](screenshots/project2/project2_1.PNG)
+![Project2_1 Screenshot](screenshots/project2/project2_2.PNG)
 
 # Project 3.1: GAN-pytorch
 
@@ -71,14 +71,15 @@ This project demonstrates the usage of the Roop framework for face processing in
 5. Don't forget to upload your video file and image (.jpg) file that contains face to change into the video and also change the file path.
 
 <video width="320" height="240" controls>
-  <source src="screenshots\project3_2\Aukat_dikhadi.mp4" type="video/mp4">
+  <source src="screenshots/project3_2/Aukat_dikhadi.mp4" type="video/mp4">
   project 3_2 Input video
 </video>
 
-![Project3_2 Input Image](screenshots\project3_2\Viratkohli.jpg)
+![Project3_2 Input Image](screenshots/project3_2/Viratkohli.jpg)
 
 <video width="320" height="240" controls>
   <source src="screenshots\project3_2\Viratkohli_Aukat_dikhadi.mp4" type="video/mp4">
   project 3_2 Output video
 </video>
+
 ![project 3_2 Output video](screenshots/project3_2/Viratkohli_Aukat_dikhadi.mp4)
